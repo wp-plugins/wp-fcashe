@@ -3,7 +3,7 @@ Contributors: veisis
 Tags: cache, caching, fragment cache, partial cache, output caching, optimize, performance, speed,  page cache
 Requires at least: 3.3
 Tested up to: 4.2.2
-Stable tag: trunk
+Stable tag: 0.1.1
 
 Fragment caching for WordPress themes and plugins
 
