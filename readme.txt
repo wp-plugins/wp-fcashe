@@ -34,5 +34,8 @@ Usage:
 3. Integrate caching functions to optimize your theme and plugins.
 
 == Changelog ==
+= 0.1.1 =
+Fix admin framework include.
+
 = 0.1 =
 Initial release.
