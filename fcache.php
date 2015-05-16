@@ -16,6 +16,7 @@ Usage:
 
 // phpFastCache Library
 require_once( dirname(__FILE__) . '/lib/phpfastcache/phpfastcache/3.0.4/phpfastcache.php' );
+require_once( dirname( __FILE__ ) . '/lib/admin-page-framework/admin-page-framework.php' );
 
 if ( is_admin() )
 {

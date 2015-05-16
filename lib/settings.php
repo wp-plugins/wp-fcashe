@@ -1,5 +1,4 @@
 <?php
-include( dirname( __FILE__ ) . '/admin-page-framework/admin-page-framework.php' );
 if ( ! class_exists( 'Fcache_AdminPageFramework' ) ) {
     return;
 }
